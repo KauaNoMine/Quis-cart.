@@ -52,6 +52,17 @@ body {
     font-size: 1.4vw;
 }
 
+.cartao__conteudo__imagem {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.cartao__conteudo__imagem img {
+    max-width: 100%; 
+    height: auto;
+    border-radius: 8px;
+}
+
 .cartao__conteudo__pergunta p {
     color: var(--text-color);
     font-weight: 500;
@@ -95,6 +106,7 @@ footer p {
     font-size: 0.6rem;
     margin-top: 0.5rem;
 }
+
 
 @media (max-width: 560px) {
     
