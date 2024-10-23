@@ -9,28 +9,28 @@ criaCartao(
     'Geografia',
     'Qual a capital da França?',
     'A capital da França é Paris',
-    'assets/img/Geografia'
+    'assets/img/Geografia.jpg'
 )
 
 criaCartao(
     'Programação',
     'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa',
-    'assets/img/Romantismo.webp'
+    'assets/img/Progama.jpg'
 )
 
 criaCartao(
     'Lingua inglesa',
     'Como se diz OI em inglês?',
     'Oi em ingles é HI (RAI)',
-    'assets/img/Romantismo.webp'
+    'assets/img/badeira.webp'
 )
 
 criaCartao(
     'Matematica',
     'Como calcular a area de um triangolo retangolo?',
     'Area do triangulo retangulo e sua altura veses a largura depois devedido por dois (Altura X Largura)/2',
-    'assets/img/Romantismo.webp'
+    'assets/img/matematica.webp'
 )
 
 criaCartao(
